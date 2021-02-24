@@ -15,7 +15,7 @@ namespace UnityAjax
         GET,
         POST,
         PUT,
-        Delete
+        DELETE
     }
 
     public class Ajax
