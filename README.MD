@@ -1,8 +1,11 @@
 # Unity Ajax
 
 自己封装的Unity HTTP请求接口
+
 依赖第三方插件 LitJson 和 RSGPromise 
+
 亲测PC/Android没有问题，理论上全平台通用
+
 POST请求暂未支持流文件上传
 
 > *注意：须在mono脚本调用
