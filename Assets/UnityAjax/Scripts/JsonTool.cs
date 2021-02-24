@@ -1,8 +1,6 @@
-﻿using UnityEngine;
-using RSG;
+﻿using RSG;
 using System;
 using LitJson;
-using System.Collections.Generic;
 
 namespace UnityAjax
 {
