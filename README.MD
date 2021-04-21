@@ -67,3 +67,11 @@ Ajax.Request<resultData>(this, "url",RequestType.GET, sendData).Then((data) =>
 | url        | string      |   请求地址    | 是 |
 | sendData        | object      |   请求数据的对象    | 否 |
 | headers        |  Dictionary<string, string>      |   请求头    | 否 |
+
+## 关于我
+
+[新浪微博](https://weibo.com/233742343/)
+
+[bilibili](https://space.bilibili.com/259362/)
+
+[Twitter](https://twitter.com/Sakuya_fm)
